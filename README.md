@@ -5,7 +5,6 @@ Para usar a calculadora, siga estas etapas:
 1. Clone ou faça o download do projeto para o seu computador.
 2. Abra o projeto em um ambiente de desenvolvimento compatível com .NET 8, como Visual Studio ou Visual Studio Code.
 3. Compile e execute o projeto.
-4. Siga as instruções na interface da calculadora para realizar operações matemáticas básicas.
 5. ## Recursos e Funcionalidades
 
 - Adição, subtração, multiplicação e divisão de números.
